@@ -29,7 +29,7 @@ Nao sao iguais!
 
 import java.util.*;
 
-public class numeros_sao_iguais {
+public class NumeroSaoIguais {
 
     public static void main(String[] args) {
 
