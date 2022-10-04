@@ -1,3 +1,5 @@
+package DominandoAlgoritmosIntermediarios;
+
 import java.util.Scanner;
 
 /*

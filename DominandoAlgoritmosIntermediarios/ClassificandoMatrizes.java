@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package DominandoAlgoritmosIntermediarios;
+
 import java.util.Scanner;
 
 /*
