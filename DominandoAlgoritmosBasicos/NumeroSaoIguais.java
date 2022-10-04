@@ -1,3 +1,4 @@
+package DominandoAlgoritmosBasicos;
 /*Desafio
 Nesse desafio, dados dois números, verifique se eles são iguais. Caso sejam, retorne "Sao iguais!”. Caso contrário, retorne "Nao sao iguais!” sem as aspas. 
 

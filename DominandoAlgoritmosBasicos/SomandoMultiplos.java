@@ -1,3 +1,4 @@
+package DominandoAlgoritmosBasicos;
 /*
 Desafio
 Dado um número A e o seu limite N, encontre a soma de todos os múltiplos A até o seu limite N.

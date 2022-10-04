@@ -1,3 +1,5 @@
+package DominandoAlgoritmosBasicos;
+
 import java.util.Scanner;
 
 /*
